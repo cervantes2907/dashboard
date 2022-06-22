@@ -1,0 +1,35 @@
+
+
+.izquierda{
+    float: left;
+    list-style: none;
+    display: flex;
+}
+.icon_menu{
+    font-size: 20px;
+    color: white;
+}
+.title_menu{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+.derecha{
+    float: right;
+    list-style: none;
+    display: flex;
+    padding-right: 3rem;
+
+
+}
+.img_navbar{
+    font-weight: bold;
+    color: white;
+  
+}
+.title_izquierda{
+    padding-left: 20px;
+}
+.ant-layout-header{
+    padding: 0px;
+}
